@@ -1,0 +1,7 @@
+# Track only site sources in this project root (Desktop/cursor).
+# Other files in this folder stay local and are not pushed to GitHub.
+/*
+!/.gitignore
+!/index.html
+!/styles.css
+!/script.js
